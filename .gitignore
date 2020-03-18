@@ -1,0 +1,5 @@
+intro-to-pytorch/__pycache__/*
+intro-to-pytorch/.ipynb_checkpoints/*
+intro-to-pytorch/Cat_Dog_data/*
+intro-to-pytorch/checkpoint.pth
+Cat_Dog_data.zip
